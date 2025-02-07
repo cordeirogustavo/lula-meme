@@ -42,7 +42,7 @@ The app will ask you questions like:
 
 ```
 Enter the city: Salvador
-Enter the product name: Caviar
+Enter the product name: Tal produto
 Suspect is 'TAL PRODUTO' expensive? Y/N: Y
 Everyone has conscience? Y/N: Y
 Do not buy TAL PRODUTO
